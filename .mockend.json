@@ -15,6 +15,10 @@
         "maxLength": 100
       }
     },
+    "online": {
+      "boolean":{
+      }
+    }
     "tag": {
       "string": [
         "one",
